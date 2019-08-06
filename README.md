@@ -1,6 +1,15 @@
 # webalert
 
-A new Flutter project.
+A Flutter project to create a basic app, to make the sound in every one-minute interval when the entered Url's response contains '1', do nothing otherwise. 
+There are three buttons and a dropdown menu for some internal functionality.
+
+## Final result
+<img src="Images/WebAlert" width="742">
+
+# Objective
+<img src="Images/Objective" width="400">
+
+<img src="Images/WireFrame" width="400">
 
 ## Getting Started
 
