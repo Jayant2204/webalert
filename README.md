@@ -4,12 +4,12 @@ A Flutter project to create a basic app, to make the sound in every one-minute i
 There are three buttons and a dropdown menu for some internal functionality.
 
 ## Final result
-![] (Images/WebAlert)
+![] (https://github.com/Jayant2204/webalert/blob/master/Images/WebAlert.jpeg )
 
 # Objective
-![] (Images/WireFrame)
+![] (https://github.com/Jayant2204/webalert/blob/master/Images/WireFrame.jpeg )
 
-![] (Images/Objective)
+![] (https://github.com/Jayant2204/webalert/blob/master/Images/Objective.jpeg )
 
 ## Getting Started
 
